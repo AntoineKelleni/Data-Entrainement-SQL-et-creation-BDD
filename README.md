@@ -1,3 +1,7 @@
+<p style="text-align: center;">
+  <img src="logo_OCR.jpg" alt="Logo Academy" width="100">
+</p>
+
 # Data-Entrainement-SQL-et-creation-BDD
 ## Laplace Immo – Modélisation et Analyse des Transactions Immobilières en France
 
