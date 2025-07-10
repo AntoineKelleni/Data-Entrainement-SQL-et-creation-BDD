@@ -12,7 +12,7 @@ Concevoir un schéma relationnel normalisé respectant les bonnes pratiques (1NF
 
 Créer un dictionnaire des données complet.
 
-Implémenter une base de données relationnelle (SQLite/MySQL/PostgreSQL).
+Implémenter une base de données relationnelle (PostgreSQL).
 
 Charger et nettoyer les données de référence (valeurs foncières, référentiel géographique, etc.).
 
